@@ -51,5 +51,6 @@ Run the app:
 Bash
 
 python -m streamlit run main.py
+
 📜 Disclaimer
 This tool is for educational purposes only. It is an AI screening project and should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical concerns.
