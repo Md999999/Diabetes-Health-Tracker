@@ -3,7 +3,7 @@ This Diabetes AI Health Tracker is a Machine Learning web application designed t
 Key Features
 Predictive Analysis: Uses a Random Forest Classifier to assess risk with an accuracy of 75.3%.
 
-The link to the dataset: vhttps://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+The link to the dataset: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 Interactive Dashboard: A clean UI built with Streamlit that allows users to input vitals via sliders and number inputs.
 
