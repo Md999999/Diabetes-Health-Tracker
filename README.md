@@ -54,5 +54,5 @@ python -m streamlit run main.py
 
 📜 Disclaimer
 This tool is for educational purposes only. It is an AI screening project and should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical concerns.
-![Screenshot1](Screenshot 2026-01-02 122804.png)
-![Screenshot2](Screenshot 2026-01-02 122819.png)
+![Screenshot1](Screenshot%202026-01-02%20122804.png)
+![Screenshot2](Screenshot%202026-01-02%20122819.png)
